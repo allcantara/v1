@@ -5,7 +5,7 @@
   brittanychiang.com - v4
 </h1>
 <p align="center">
-  The first iteration of <a href="https://allcantara.vercel.app/" target="_blank">allcantara.vercel.app/</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a>.
+  The first iteration of <a href="https://allcantara.vercel.app/" target="_blank">allcantara.vercel.app</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a>.
 </p>
 
 ![demo](https://raw.githubusercontent.com/bchiang7/v4/main/src/images/demo.png)
